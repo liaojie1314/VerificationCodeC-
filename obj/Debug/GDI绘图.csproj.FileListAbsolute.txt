@@ -1,0 +1,10 @@
+E:\Visual Studio Community\C#\GDI绘图\bin\Debug\GDI绘图.exe.config
+E:\Visual Studio Community\C#\GDI绘图\bin\Debug\GDI绘图.exe
+E:\Visual Studio Community\C#\GDI绘图\bin\Debug\GDI绘图.pdb
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.csprojAssemblyReference.cache
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.Form1.resources
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.Properties.Resources.resources
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.csproj.GenerateResource.cache
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.csproj.CoreCompileInputs.cache
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.exe
+E:\Visual Studio Community\C#\GDI绘图\obj\Debug\GDI绘图.pdb
